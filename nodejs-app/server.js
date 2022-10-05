@@ -1,4 +1,4 @@
-var createError = require('hmtl-error');
+var createError = require('hmtl-errors');
 
 var express = require('express');
 app = express();
